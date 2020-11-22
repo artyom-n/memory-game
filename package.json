@@ -1,8 +1,8 @@
 {
-  "name": "memory-game",
+  "name": "todo-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://artyom-n.github.io/memory-game/",
+  "homepage": "http://artyom-n.github.io/memory-game",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.1",
